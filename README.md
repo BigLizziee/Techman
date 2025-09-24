@@ -98,4 +98,12 @@ Para dúvidas ou problemas:
 
 ### Funcionando
 
+## Usuario
+
 |![logotipo](./img/Captura%20de%20tela%202025-09-24%20104930.png)|
+
+|![logotipo](./img/Captura%20de%20tela%202025-09-24%20105532.png)|
+
+|![logotipo](./img/Captura%20de%20tela%202025-09-24%20105603.png)|
+
+|![logotipo](./img/Captura%20de%20tela%202025-09-24%20105626.png)|
