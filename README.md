@@ -121,7 +121,7 @@ Para dúvidas ou problemas:
 
 Tem apenas a adição da exclusão e de adicionar novo equipamento
 
-![logotipo](./img/Captura%20de%20tela%202025-09-24%20105642.png)
+![logotipo](./img/Captura%20de%20tela%202025-09-24%20142340.png)
 
 ![logotipo](./img/Captura%20de%20tela%202025-09-24%20144244.png)
 
