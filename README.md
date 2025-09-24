@@ -97,7 +97,7 @@ Para dúvidas ou problemas:
 
 
 ### Como funciona:
-- O `![Texto Alternativo](Captura%20de%20tela%202025-09-24%20104930.png)` é o formato para incluir uma imagem no README.
+- O `![Texto Alternativo](./img/Captura%20de%20tela%202025-09-24%20104930.png)` é o formato para incluir uma imagem no README.
 - **Texto Alternativo** aparece caso a imagem não seja carregada.
 - **Caminho da Imagem** pode ser um caminho local (por exemplo, `imagens/sistema.png`) ou uma URL direta (por exemplo, `https://example.com/fluxograma.png`).
 
