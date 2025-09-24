@@ -107,7 +107,7 @@ Para dúvidas ou problemas:
 
 ![logotipo](./img/Captura%20de%20tela%202025-09-24%20105603.png)
 
-[logotipo](./img/Captura%20de%20tela%202025-09-24%20105626.png)
+![logotipo](./img/Captura%20de%20tela%202025-09-24%20105626.png)
 
 
 
