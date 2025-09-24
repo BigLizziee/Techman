@@ -25,53 +25,7 @@ O **TechMan** é um sistema web completo para gerenciamento de equipamentos dese
 - **4 Tabelas**: perfis, usuarios, equipamentos, comentarios
 - **Relacionamentos** bem definidos com chaves estrangeiras
 
-## 🎯 Funcionalidades
 
-### 🔐 Sistema de Autenticação
-- **Teclado Virtual**: Interface com botões numéricos (0-9), Clear (C) e Enter (⏎)
-- **Login por Senha**: Autenticação com senhas numéricas de 6 dígitos
-- **Feedback Visual**: Display com asteriscos e botão Enter habilitado apenas com 6 dígitos
-- **Sessões Seguras**: Gerenciamento de sessões com Express Session
-
-### 👥 Controle de Usuários e Permissões
-- **Perfis de Usuário**: Administrador e Usuário comum
-- **Controle de Acesso**: Funcionalidades diferentes baseadas no perfil
-- **Usuários Pré-cadastrados**:
-  - **Admin**: senha `310308` (perfil administrador)
-  - **User1**: senha `123456` (perfil usuário)
-  - **User2**: senha `111111` (perfil usuário)
-  - **Manager**: senha `101531` (perfil administrador)
-
-### 📦 Gerenciamento de Equipamentos
-- **Listagem Visual**: Cards responsivos com imagens e descrições
-- **Cadastro de Equipamentos**: Formulário completo (apenas administradores)
-- **Exclusão de Equipamentos**: Funcionalidade restrita a administradores
-- **Status de Equipamentos**: Ativo/Inativo com indicadores visuais
-- **Validação de Dados**: Campos obrigatórios e validação de URLs
-
-### 💬 Sistema de Comentários
-- **Visualização por Equipamento**: Modal com lista de comentários
-- **Cadastro de Comentários**: Todos os usuários podem comentar
-- **Informações Completas**: Data, perfil do usuário e texto do comentário
-- **Interface Responsiva**: Modal moderno com scroll automático
-
-## 📁 Estrutura do Projeto
-
-```
-techman/
-├── server.js                 # Servidor principal Express.js
-├── package.json              # Dependências e scripts npm
-├── config/
-│   └── database.js          # Configuração e conexão MySQL
-├── routes/
-│   ├── auth.js              # Rotas de autenticação
-│   ├── equipamentos.js      # Rotas de equipamentos
-│   └── comentarios.js       # Rotas de comentários
-└── public/
-    ├── index.html           # Interface principal
-    ├── styles.css           # Estilos CSS
-    └── script.js            # JavaScript frontend
-```
 
 ## 🛠️ Passo a Passo para Executar
 
