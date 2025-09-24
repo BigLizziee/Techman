@@ -76,8 +76,8 @@ npm run dev
 1. Abra seu navegador
 2. Acesse: `http://localhost:3000`
 3. Use uma das senhas para fazer login:
-   - **Administrador**: `123456`
-   - **Usuário comum**: `654321`
+   - **Administrador**: `310308`
+   - **Usuário comum**: `123456`
 
 ## 🧪 Testando o Sistema
 
