@@ -96,6 +96,12 @@ Para dúvidas ou problemas:
 4. Confirme se as dependências foram instaladas (`npm install`)
 
 
+## Diagramas
+
+![logotipo](./img/Captura%20de%20tela%202025-09-24%20142340.png)
+
+![logotipo](./img/Captura%20de%20tela%202025-09-24%20104930.png)
+
 ### Funcionando
 
 ## Usuario
@@ -117,6 +123,8 @@ Tem apenas a adição da exclusão e de adicionar novo equipamento
 
 ![logotipo](./img/Captura%20de%20tela%202025-09-24%20105642.png)
 
-![logotipo](./img/Captura%20de%20tela%202025-09-24%20105652.png)
+![logotipo](./img/Captura%20de%20tela%202025-09-24%20144244.png)
+
+![logotipo](./img/Captura%20de%20tela%202025-09-24%20151354.png)
 
 

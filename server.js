@@ -51,7 +51,7 @@ app.use((err, req, res, next) => {
     res.status(500).json({ error: 'Algo deu errado!' });
 });
 
-
+// Iniciar servidor
 app.listen(PORT, '0.0.0.0', () => {
     console.log(`Servidor TechMan rodando na porta ${PORT}`);
     console.log(`Acesse: http://localhost:${PORT}`);

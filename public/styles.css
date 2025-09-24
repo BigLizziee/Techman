@@ -121,6 +121,8 @@ body {
     gap: 0.75rem;
 }
 
+
+
 .key-btn {
     background: var(--cor-1);
     border: 2px solid var(--cor-5);

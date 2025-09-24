@@ -467,3 +467,25 @@ function initializeApp() {
     currentEquipmentId = null;
 }
 
+document.querySelectorAll('.key-btn').forEach(btn => {
+    btn.addEventListener('click', function(e) {
+        const ripple = document.createElement('span');
+        ripple.classList.add('ripple');
+        
+        // posição relativa ao botão
+        const rect = this.getBoundingClientRect();
+        const x = e.clientX - rect.left - 10;
+        const y = e.clientY - rect.top - 10;
+
+        ripple.style.left = `${x}px`;
+        ripple.style.top = `${y}px`;
+
+        this.appendChild(ripple);
+
+        // remove depois da animação
+        setTimeout(() => {
+            ripple.remove();
+        }, 600);
+    });
+});
+
